@@ -15,8 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QRCode_Preview](./design/qrcode_preview.png)
-![QRCode_Mobile_Preview](./design/qrcode_mobile_preview.png)
+![project_screenshot](./design/project_screenshot.png)
 
 ## My process
 
