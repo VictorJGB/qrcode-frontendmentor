@@ -19,6 +19,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+    - Layout construction (Flexbox, fonts, color variables...)
+    - Import bootstrap in the project (CSS and JS links)
+    - Implemented the card component and his styles
+    - Create the mobile layout (width: 375px)
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -27,6 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS Grid
 - Mobile-first workflow
 - [Sass](https://sass-lang.com) - Css extension language
+- [Bootstrap](https://getbootstrap.com) - frontend toolkit
 
 ## Author
 
