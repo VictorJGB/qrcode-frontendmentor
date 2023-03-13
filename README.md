@@ -15,13 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<div style="align-items: center">
-  <h5>Desktop design</h5>
-  ![QRCode_Preview](./design/qrcode_preview.png)
-
-  <h5>Mobile design</h5>
-  ![QRCode_Mobile_Preview](./design/qrcode_mobile_preview.png)
-</div>
+![QRCode_Preview](./design/qrcode_preview.png)
+![QRCode_Mobile_Preview](./design/qrcode_mobile_preview.png)
 
 ## My process
 
