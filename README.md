@@ -16,11 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![QRCode_Preview](./design/qrcode_preview.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![QRCode_Mobile_Preview](./design/qrcode_mobile_preview.png)
 
 ## My process
 
